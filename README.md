@@ -9,6 +9,7 @@ This is a list:
 * Item 2
 * Third item
 * Fourth item I added directly in GitHub
+* Fifth item I added locally
 
 ## This is another subheading
 
